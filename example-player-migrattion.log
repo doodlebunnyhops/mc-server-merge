@@ -1,0 +1,9 @@
+2023-06-19 02:26:45,970 - INFO - <module>: Starting program
+2023-06-19 02:26:45,979 - INFO - player_files_list: list_player_files
+2023-06-19 02:26:45,979 - INFO - update: Updating file:			0873hf11-cca4-470d-bfb5-5a743651b90h.dat
+2023-06-19 02:26:46,037 - INFO - update: Successfully updated file:	0873hf11-cca4-470d-bfc1-5a743651b90h.dat
+2023-06-19 02:26:46,037 - INFO - update: Updating file:			1bcd5v48-e9a6-48e7-8c7a-ba13abadd1a8.dat
+2023-06-19 02:26:46,050 - INFO - update: Successfully updated file:	1bcd5v48-e9a6-48e7-8c7a-ba13abadd1a8.dat
+2023-06-19 02:26:46,050 - INFO - update: Updating file:			1578ah62-adc4-4601-9fga-a152ced15704.dat
+2023-06-19 02:26:46,065 - INFO - update: Successfully updated file:	1832aj65-adc4-4601-9fga-a152ced15704.dat
+2023-06-19 02:26:46,423 - INFO - <module>: Amazing! We're all done!
