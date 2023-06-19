@@ -2,9 +2,9 @@
 Python Script to migrate minecraft players to a new server so that they maintain inventory and spawn at a chosen location.
 
 ## Dependencies:
- - py -m pip install "nbtlib==1.12.1"
+ - `py -m pip install "nbtlib==1.12.1"`
    - issues with latest [nbtlib](https://github.com/vberlier/nbtlib) 2.0.4   
- - python 3.10.0
+ - `python 3.10.0`
 
 ## Usage
 
